@@ -2,4 +2,6 @@
 
 * This is a smiple project to build a social media profile
 
-## Live linkS
+## Live link
+
+* https://sgswamin.github.io/social-media-profile/
